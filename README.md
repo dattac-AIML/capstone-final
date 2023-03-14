@@ -1,6 +1,6 @@
 # capstone-final
 ### Project Title
-
+Predictive Algorithm - Instacart
 **Author**
 Dattatraya Chindarkar 
 
