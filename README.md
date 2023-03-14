@@ -40,6 +40,13 @@ What data will you use to answer you question?
 
 The instacart dataset on kaggle.
 
+Since the files involved in this are too large to be uploaded here, I am including the google drive link for the same .
+https://drive.google.com/drive/folders/1fUYlxoIqSxAgd3g6z7qowq9Cy4YpaVLV?usp=share_link 
+It includes 
+- the notebook 
+- An archive file contianing all the datasets 
+- Readme.md
+
 #### Methodology
 What methods are you using to answer the question?
 
